@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing (4px base unit) -->
+    <dimen name="space_0">0dp</dimen>
+    <dimen name="space_1">4dp</dimen>
+    <dimen name="space_2">8dp</dimen>
+    <dimen name="space_3">12dp</dimen>
+    <dimen name="space_4">16dp</dimen>
+    <dimen name="space_5">20dp</dimen>
+    <dimen name="space_6">24dp</dimen>
+    <dimen name="space_8">32dp</dimen>
+    <dimen name="space_10">40dp</dimen>
+    <dimen name="space_12">48dp</dimen>
+    <dimen name="space_16">64dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="radius_sm">4dp</dimen>
+    <dimen name="radius_md">6dp</dimen>
+    <dimen name="radius_lg">8dp</dimen>
+    <dimen name="radius_xl">12dp</dimen>
+    <dimen name="radius_2xl">16dp</dimen>
+
+    <!-- Typography sizes -->
+    <dimen name="text_display">48sp</dimen>
+    <dimen name="text_heading_xl">32sp</dimen>
+    <dimen name="text_heading_lg">24sp</dimen>
+    <dimen name="text_heading_md">20sp</dimen>
+    <dimen name="text_heading_sm">18sp</dimen>
+    <dimen name="text_body_lg">16sp</dimen>
+    <dimen name="text_body_md">14sp</dimen>
+    <dimen name="text_body_sm">13sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_overline">11sp</dimen>
+</resources>

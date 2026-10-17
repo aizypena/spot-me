@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">SpotMe</string>
+
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Log in to book your next session.</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="login_no_account">Don\'t have an account? Sign up</string>
+
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_invalid">Enter a valid email</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_invalid_credentials">Incorrect email or password</string>
+    <string name="error_network">Network error. Try again.</string>
+    <string name="error_unknown">Something went wrong</string>
+
+    <string name="logo_description">SpotMe logo</string>
 </resources>

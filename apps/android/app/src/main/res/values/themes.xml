@@ -1,9 +1,15 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.SpotMe" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Theme.SpotMe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_500</item>
+        <item name="colorOnPrimary">@color/text_inverse</item>
+        <item name="colorSecondary">@color/secondary_900</item>
+        <item name="colorOnSecondary">@color/text_inverse</item>
+        <item name="android:colorBackground">@color/bg_base</item>
+        <item name="colorSurface">@color/bg_surface</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:statusBarColor">@color/bg_base</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
-
-    <style name="Theme.SpotMe" parent="Base.Theme.SpotMe" />
 </resources>

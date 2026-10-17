@@ -81,7 +81,7 @@
         app:srcCompat="@drawable/img_progress" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/getStarted"
         android:layout_width="348dp"
         android:layout_height="67dp"
         android:layout_marginStart="60dp"
