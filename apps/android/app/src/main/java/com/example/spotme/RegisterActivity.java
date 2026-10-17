@@ -15,18 +15,5 @@ public class RegisterActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
 
-        TextInputEditText nameInput = findViewById(R.id.nameInput);
-        TextInputEditText emailInput = findViewById(R.id.emailInput);
-        TextInputEditText passwordInput = findViewById(R.id.passwordInput);
-        MaterialButton registerButton = findViewById(R.id.registerButton);
-        TextView loginText = findViewById(R.id.loginText);
-
-        registerButton.setOnClickListener(v -> {
-            // Handle registration logic
-        });
-
-        loginText.setOnClickListener(v -> {
-            finish();
-        });
     }
 }
